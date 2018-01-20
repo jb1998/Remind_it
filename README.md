@@ -1,5 +1,5 @@
 # Remind-it
-### This app allows user to add,delete and modify a todo
+### This live app allows user to add,delete and modify a todo
 #### 1) Get push notification alerts
 #### 2) Get alert sound for a todo in your own selected tone
 #### 3) Simply long press on a particular todo to delete it
